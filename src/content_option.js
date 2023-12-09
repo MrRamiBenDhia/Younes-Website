@@ -109,7 +109,8 @@ const socialprofils = {
     github: "https://github.com/Younessallami",
     facebook: "https://www.facebook.com/profile.php?id=100004350934826",
     linkedin: "https://www.linkedin.com/in/younes-sallami-b07743257/",
-    twitter: "https://twitter.com",
+    // twitter: "https://twitter.com",
+    instragram: "https://instagram.com/sallamiyounes",
 };
 export {
     meta,
