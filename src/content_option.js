@@ -4,6 +4,10 @@ import imgEsMod from "./assets/images/IMG-0642.jpg"
 import imgFleshPit from './assets/images/Fleshpit.png'
 import imgJenjoun from './assets/images/jenjoon.png'
 import imgUnreal from './assets/images/Sci-Fi-Game-Kit-Unreal-Editor-2023-12-06-21-00-32-00-00-02-19-Still001.gif'
+import imgUnity from './assets/images/AudioR.png'
+import imgMetaHumain from './assets/images/yon.jpg'
+import img3DES from './assets/images/SOUNDS.png'
+
 
 
 
@@ -89,8 +93,26 @@ const dataportfolio = [{
 
 {
     img: imgUnreal,
-    description: "AudioReactive Simulation RealTime Work This is an Exemple I will import athor's later .",
+    description: " AudioReactive Simulation RealTime Work This is an Exemple I will import athor's later .",
     link: "https://drive.google.com/file/d/1xZ9NX4n6UAAzFMBdvpi0O7k4INcc9nPb/view?usp=sharing",
+},
+{
+    img: imgUnity,
+    description: "UNITY AudioReactive Simulation RealTime Work This is an Exemple I will import athor's later .",
+    link: "https://gitlab.com/Younessallami/audioReactive",
+
+},
+{
+    img: imgMetaHumain,
+    description: "UNREAL ENGINE 5 MetaHumainProject",
+    link: "https://www.instagram.com/p/C1kicV1LT5_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+
+},
+{
+    img: img3DES,
+    description: "Event Graphics Made With blender,Adope [Photoshop,PremierPro] And Unreal Engine 5",
+    link: "https://www.instagram.com/reel/C2QUqBfKnJ0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+
 }
 ];
 
@@ -109,8 +131,7 @@ const socialprofils = {
     github: "https://github.com/Younessallami",
     facebook: "https://www.facebook.com/profile.php?id=100004350934826",
     linkedin: "https://www.linkedin.com/in/younes-sallami-b07743257/",
-    // twitter: "https://twitter.com",
-    instragram: "https://instagram.com/sallamiyounes",
+    twitter: "https://twitter.com",
 };
 export {
     meta,
